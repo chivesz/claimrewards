@@ -1,3 +1,9 @@
+this script does the following:
+installs expect
+unlocks your wallet
+claims rewards
+locks your wallet
+
 clone the repository
 edit call.sh and include your wallet password
 edit call2.sh and include your username
