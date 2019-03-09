@@ -1,0 +1,4 @@
+clone the repository
+edit call.sh and include your wallet password
+edit call2.sh and include your username
+run ./claimrewards.sh
